@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EurekaAuth/EurekaAuth.iml" filepath="$PROJECT_DIR$/EurekaAuth/EurekaAuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaCommon/EurekaCommon.iml" filepath="$PROJECT_DIR$/EurekaCommon/EurekaCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaGallery/EurekaGallery.iml" filepath="$PROJECT_DIR$/EurekaGallery/EurekaGallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaGateway/EurekaGateway.iml" filepath="$PROJECT_DIR$/EurekaGateway/EurekaGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaImage/EurekaImage.iml" filepath="$PROJECT_DIR$/EurekaImage/EurekaImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaZuul/EurekaZuul.iml" filepath="$PROJECT_DIR$/EurekaZuul/EurekaZuul.iml" />
+    </modules>
+  </component>
+</project>
